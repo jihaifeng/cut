@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GeoView">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/GeoView.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

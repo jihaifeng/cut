@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\WorkSpace\android_studio\cut\app\libs\GeoView.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="141794c0245573033937172e10c83d842dea58bf">
+        <dex dex="D:\WorkSpace\android_studio\cut\app\build\intermediates\pre-dexed\debug\GeoView_f9850e1788864567764b206af292545bb54d35e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkSpace\android_studio\cut\app\libs\GeoPolygons.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="04db66962641a0879399afcfa83f0507fcfe6e3f">
+        <dex dex="D:\WorkSpace\android_studio\cut\app\build\intermediates\pre-dexed\debug\GeoPolygons_0aafec81322ea7bfaa5f6e27360472f3f3c950cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkSpace\android_studio\cut\app\libs\GeoLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="753854540bd78f48fac9b651c0cd103a8e81d95c">
+        <dex dex="D:\WorkSpace\android_studio\cut\app\build\intermediates\pre-dexed\debug\GeoLib_1192e8269ed82694783a6bd96cb91179c9b16a7b.jar" />
+    </item>
+
+</items>
